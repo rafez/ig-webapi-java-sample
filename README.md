@@ -1,4 +1,4 @@
-## IG Web API Java Sample
+## IG Web API Java Sample RN
 [![Build Status](https://travis-ci.org/IG-Group/ig-webapi-java-sample.svg?branch=master)](https://travis-ci.org/IG-Group/ig-webapi-java-sample)
 
 ### Overview
